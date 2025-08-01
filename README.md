@@ -1,9 +1,6 @@
-
-
-
 ## ✍️ Blog
-[![Visit Blog](https://img.shields.io/badge/str1ng%20blog-Visit-blue?style=for-the-badge&logo=vercel)](https://str1ng-blog.vercel.app/) 
-✅ **Checked!**
+[![Visit Blog](https://img.shields.io/badge/str1ng%20blog-Visit-blue?style=for-the-badge&logo=vercel)](https://str1ng-blog.vercel.app/) [![Checked](https://img.shields.io/badge/Status-Checked-green?style=for-the-badge&logo=verified)](https://str1ng-blog.vercel.app/)
+
 
 <br />
 

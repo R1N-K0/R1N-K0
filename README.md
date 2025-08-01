@@ -9,5 +9,7 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-K0&layout=compact&theme=dracula" />
 </a>
 
+<br/>
 ## ✍️ Blog
-[![Visit Blog](https://img.shields.io/badge/str1ng%20blog-Visit-blue?style=for-the-badge&logo=vercel)](https://str1ng-blog.vercel.app/)
+[![My Blog](https://img.shields.io/badge/Visit%20My%20Blog-%F0%9F%93%9A-orange?style=for-the-badge)](https://str1ng-blog.vercel.app/)
+

@@ -1,5 +1,10 @@
 
 
+
+## ✍️ Blog
+[![Visit Blog](https://img.shields.io/badge/str1ng%20blog-Visit-blue?style=for-the-badge&logo=vercel)](https://str1ng-blog.vercel.app/)
+<br />
+
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
@@ -9,9 +14,5 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1N-K0&layout=compact&theme=dracula" />
 </a>
 
-<br />
-
-## ✍️ Blog
-[![Visit Blog](https://img.shields.io/badge/str1ng%20blog-Visit-blue?style=for-the-badge&logo=vercel)](https://str1ng-blog.vercel.app/)
 
 

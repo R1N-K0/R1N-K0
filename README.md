@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%E2%9C%8B+Hi!+There!+I'm+R1N-K0%F0%9F%91%80)](https://git.io/typing-svg)
+<p align="center">
+  <img[ src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"](https://readme-typing-svg.demolab.com/demo/?size=30&lines=%E2%9C%8B+Hi+There!+I'm+R1N-K0%F0%9F%91%80) alt="Example Usage - README Typing SVG">
+</p>
+
 
 ## ✍️ Blog
 [![Visit Blog](https://img.shields.io/badge/str1ng%20blog-Visit-blue?style=for-the-badge&logo=vercel)](https://str1ng-blog.vercel.app/)

@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%E2%9C%8B+Hi!+There!+I'm+R1N-K0%F0%9F%91%80)](https://git.io/typing-svg)
+
 ## ✍️ Blog
 [![Visit Blog](https://img.shields.io/badge/str1ng%20blog-Visit-blue?style=for-the-badge&logo=vercel)](https://str1ng-blog.vercel.app/)
 <br />

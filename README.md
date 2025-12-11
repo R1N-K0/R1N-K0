@@ -4,7 +4,7 @@
 
 ## 💙: About Me
 - 🏫 I'm R1N-K0 - College students in Tokyo.
-- 📝 Specializes in neural networks for image recognition.
+- 📝 Specializes in Computer Vision.
 - 🖥️ I usually write web applications.
 - ✍️ This is my technical blog -> [https://str1ng-blog.vercel.app/](https://str1ng-blog.vercel.app/)
 - ⚡Tech I frequently utilize

@@ -14,8 +14,6 @@
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="55" height="55" style="margin:0 12px;"/>
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="55" height="55" style="margin:0 12px;"/>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="55" height="55" style="margin:0 12px;"/>
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55" style="margin:0 12px;"/>
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="55" height="55" style="margin:0 12px;"/>
 </p>
 
 ## Activities
